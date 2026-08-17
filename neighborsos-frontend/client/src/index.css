@@ -1,0 +1,7 @@
+/* All actual design decisions (colors, fonts, glass effect, buttons, cards)
+   live in ./styles/theme.css — edit that file to change the app's look. */
+@import './styles/theme.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
